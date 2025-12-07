@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🌱 Currently learning: **Data Engineering, FastAPI, SQL Optimization**  
-- 💬 Ask me about: **Python, SQL, Data Engineering, APIs, Java Fundamentals**  
+- 💬 Ask me about: **React, Python, SQL, Data Engineering, APIs, Java Fundamentals**  
 - 📫 Reach me at: **sharmaharshhs01@gmail.com**  
 - 🔗 LinkedIn: *https://www.linkedin.com/in/harsh-sharma-133b021b1/*  
 
