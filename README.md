@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://i.imgur.com/qxuNqsr.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
