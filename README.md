@@ -11,6 +11,10 @@
 </p>
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh-sharma-133b021b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachet-shah" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/prachetshah26](https://leetcode.com/u/user1876Zl/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachetshah26" height="30" width="40" /></a>
 
 ### 🚀 About Me
 
