@@ -34,14 +34,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harxhsharma&show_icons=true&locale=en&layout=compact" height="150px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harxhsharma&show_icons=true&locale=en" height="150px" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harxhsharma" height="150px" />
 </p>
 
